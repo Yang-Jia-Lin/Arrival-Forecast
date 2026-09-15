@@ -1,12 +1,33 @@
 # Large downloaded and event-level data
-data/raw/**
-data/interim/**
+/Data/Raw/**
+/Data/Interim/**
+!/Data/Raw/.gitkeep
+!/Data/Interim/.gitkeep
 
-# Local environments and caches
+# Generated local logs and archived output copies
+/Outputs/Logs/
+/Outputs/Tables/archive/
+
+# Virtual environments
 .venv/
+venv/
+env/
+
+# Python caches, tests, coverage, and build artifacts
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 .pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Notebook checkpoints
 .ipynb_checkpoints/
 
 # Model artifacts
@@ -19,16 +40,28 @@ __pycache__/
 *.onnx
 *.onnx.data
 
-# Local tools and secrets
+# Local configuration and secrets
 .env
+.env.*
+!.env.example
 .vscode/
 .idea/
 .agents/
 .codex/
 
-# Temporary downloads
+# Temporary files and downloads
 *.part
 *.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
 
-# Recoverable migration backup
-archive/
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Recoverable migration backups
+/archive/
