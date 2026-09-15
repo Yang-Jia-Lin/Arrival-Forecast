@@ -1,0 +1,34 @@
+{
+  "job_rows": 1055501,
+  "unique_job_ids": 1055501,
+  "unique_job_names": 1055501,
+  "tag_rows": 1055032,
+  "tag_unique_job_ids": 1055032,
+  "tagged_rows": 102798,
+  "statuses": {
+    "Terminated": 732355,
+    "Failed": 256555,
+    "Running": 62928,
+    "Waiting": 3663
+  },
+  "missing_submission": 3663,
+  "nonpositive_submission": 0,
+  "duplicate_job_id_rows": 0,
+  "conflicting_label_job_ids": 0,
+  "valid_jobs": 1051838,
+  "tagged_valid_jobs": 102445,
+  "labelled_fraction": 0.09739617697782359,
+  "workload_counts": {
+    "bert": 54757,
+    "ctr": 27053,
+    "nmt": 10326,
+    "inception": 5406,
+    "graphlearn": 3642,
+    "resnet": 537,
+    "xlnet": 409,
+    "rl": 249,
+    "vgg": 66
+  },
+  "min_submission_s": 494319.0,
+  "max_submission_s": 6451081.0
+}

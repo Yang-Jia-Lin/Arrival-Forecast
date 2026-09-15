@@ -1,0 +1,32 @@
+{
+  "sample_rows": 10000,
+  "sample_scope": "first 10000 lines of one shard in cell a; NOT a complete time interval",
+  "columns": [
+    "time",
+    "type",
+    "collection_id",
+    "scheduling_class",
+    "collection_type",
+    "priority",
+    "user",
+    "collection_name",
+    "collection_logical_name",
+    "start_after_collection_ids",
+    "vertical_scaling",
+    "scheduler",
+    "parent_collection_id",
+    "missing_type",
+    "max_per_machine",
+    "max_per_switch",
+    "alloc_collection_id"
+  ],
+  "event_types": {
+    "5": 5348,
+    "0": 4532,
+    "9": 70,
+    "8": 50
+  },
+  "time_min_us": "0",
+  "time_max_us": "2677773249493",
+  "monotonic_time": false
+}

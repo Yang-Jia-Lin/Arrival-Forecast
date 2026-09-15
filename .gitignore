@@ -1,0 +1,34 @@
+# Large downloaded and event-level data
+data/raw/**
+data/interim/**
+
+# Local environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Model artifacts
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.safetensors
+*.mnn
+*.onnx
+*.onnx.data
+
+# Local tools and secrets
+.env
+.vscode/
+.idea/
+.agents/
+.codex/
+
+# Temporary downloads
+*.part
+*.tmp
+
+# Recoverable migration backup
+archive/

@@ -1,0 +1,152 @@
+[
+  {
+    "file": "collection_events-000000000000.parquet.gz",
+    "bytes": 32870951,
+    "sha256": "d970957edd11445d4587aa9d8700aef4d15fd59508e2b07edbaf2d88fb7c5ad5",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000000.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000001.parquet.gz",
+    "bytes": 32833358,
+    "sha256": "468993bc5e1b2af04a89b53cfb84242cbea1d08c656f80f174f8d6490355360c",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000001.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000002.parquet.gz",
+    "bytes": 32945097,
+    "sha256": "f8e582167da8d0082ea0e8ae0d52347a8fa20edd0471ccc3fe91ec75d9681c77",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000002.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000003.parquet.gz",
+    "bytes": 32823099,
+    "sha256": "102e1956e3c5a4dd6b3b8e7f19d268a8776f33fce64add9b9093706f4bf54608",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000003.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000004.parquet.gz",
+    "bytes": 32759251,
+    "sha256": "c8b3c6925b1ba3d07d7a1b34ee5dcfe1f4aa6759f6b7fe17f1eff8288346a99b",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000004.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000005.parquet.gz",
+    "bytes": 32933531,
+    "sha256": "21bc89079c5a65602b3fa5007d5552a731b2608631c3b3a796dccf80d87acd4b",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000005.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000006.parquet.gz",
+    "bytes": 32924093,
+    "sha256": "82d35053732ab0e21fbd2ee2b5a671969fa4b1b961e74b7f4b1a58c405cbcb45",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000006.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000007.parquet.gz",
+    "bytes": 32873229,
+    "sha256": "39cae183b75ba110b953a3cdc5e863110176c7685c12a76234837f4c926ee56a",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000007.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000008.parquet.gz",
+    "bytes": 32917641,
+    "sha256": "0aa1dda357253a027eef7f772b1081b6e05aa2c4a4e24728508adbba6bb3a547",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000008.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000009.parquet.gz",
+    "bytes": 32830355,
+    "sha256": "b4deb60f3feb98694d7ae3e46d59c48906f822f65cf7961094ca1c64bd73f261",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000009.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000010.parquet.gz",
+    "bytes": 32905177,
+    "sha256": "f4522fad582d97ad2d930ec5a412ca2222a8ffce5a12244a60ae4211c05c3469",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000010.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000011.parquet.gz",
+    "bytes": 32873769,
+    "sha256": "56d3a2059d2d2d58e981372b2f1f1104ed75d3e37fc8745d3dbe9ecd4c751b95",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000011.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000012.parquet.gz",
+    "bytes": 32795205,
+    "sha256": "6b26896ca8ef85e336dac56582f224efe24560667ce6c522976b0ab1253027d7",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000012.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000013.parquet.gz",
+    "bytes": 32870635,
+    "sha256": "0107c3f1b04b8090b60bffffd04917a096e05ead57890b60f530c0cb9c16617c",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000013.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000014.parquet.gz",
+    "bytes": 32921509,
+    "sha256": "6697248fa57f8eb1d84e8b3d91f984e1dc280fd4076f50e657b18a5d51f42726",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000014.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000015.parquet.gz",
+    "bytes": 32803044,
+    "sha256": "eb8a26aec4169e559d32af49bb41dc432a023f3055bda6d8bb0028a2e2011004",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000015.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000016.parquet.gz",
+    "bytes": 32798639,
+    "sha256": "bf4e015b3e1f63f55e512edb8a76bc98834977961dfe1de967c8ebca177fefbd",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000016.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000017.parquet.gz",
+    "bytes": 32962806,
+    "sha256": "8f6d00dd473350da3326611330b4e3117a0c6a5fc9d5cc41aa15304145e0df06",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000017.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000018.parquet.gz",
+    "bytes": 32847139,
+    "sha256": "5774c912afea4507449cef152215addf8483f945fa8339c03fc49698890a983c",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000018.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000019.parquet.gz",
+    "bytes": 32842041,
+    "sha256": "97eb14771ca3ea9e57878548285e2ab09490a13ceb55df5bd3b2dad90b682c35",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000019.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000020.parquet.gz",
+    "bytes": 32888797,
+    "sha256": "f9860f410918c373222a57fa36db0ae163af70689b0eb54bb9018bf899f32bf7",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000020.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000021.parquet.gz",
+    "bytes": 32803867,
+    "sha256": "53f1f3b01ebf9b7d679038663c51f0d17d3bfdf395fb6ae2dcf5943e94ea884f",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000021.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000022.parquet.gz",
+    "bytes": 32776083,
+    "sha256": "a4f38d619c694513a1f38e5a05a346c686e1195e72cae891d89325a766d9bef4",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000022.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000023.parquet.gz",
+    "bytes": 32910079,
+    "sha256": "44ececccedd27ee1f1aa7bf3cb2bf445ae8b2fd232ac6c9bce1de692c15155f2",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000023.parquet.gz"
+  },
+  {
+    "file": "collection_events-000000000024.parquet.gz",
+    "bytes": 32865450,
+    "sha256": "002e427c3e72fdb426826bfbef7341b84e31472ec63fbba8e3d83152cd3bdeb1",
+    "url": "https://storage.googleapis.com/clusterdata_2019_a/collection_events-000000000024.parquet.gz"
+  }
+]

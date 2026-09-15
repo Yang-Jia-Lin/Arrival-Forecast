@@ -1,0 +1,119 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "function_rows": 46412,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 909783379
+    },
+    {
+      "day": 2,
+      "function_rows": 46889,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 920527548
+    },
+    {
+      "day": 3,
+      "function_rows": 47081,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 922797281
+    },
+    {
+      "day": 4,
+      "function_rows": 47527,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 944096893
+    },
+    {
+      "day": 5,
+      "function_rows": 46657,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 916935544
+    },
+    {
+      "day": 6,
+      "function_rows": 36429,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 834236129
+    },
+    {
+      "day": 7,
+      "function_rows": 36031,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 809031292
+    },
+    {
+      "day": 8,
+      "function_rows": 46998,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 861381547
+    },
+    {
+      "day": 9,
+      "function_rows": 47659,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 864948427
+    },
+    {
+      "day": 10,
+      "function_rows": 48405,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 870447084
+    },
+    {
+      "day": 11,
+      "function_rows": 48105,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 888267550
+    },
+    {
+      "day": 12,
+      "function_rows": 47188,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 886736079
+    },
+    {
+      "day": 13,
+      "function_rows": 36676,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 929215760
+    },
+    {
+      "day": 14,
+      "function_rows": 36488,
+      "duplicate_function_ids": 0,
+      "negative_count_cells": 0,
+      "invocations": 937406333
+    }
+  ],
+  "distinct_function_keys": 72359,
+  "triggers": [
+    "event",
+    "http",
+    "orchestration",
+    "others",
+    "queue",
+    "storage",
+    "timer"
+  ],
+  "selection": "top 3 functions by first encountered day total; identity is not business type",
+  "selected_function_keys": [
+    "104f438d72947b49216b97034e44c8f80e90b58c41c08afdad10f25a6eb1af7d/734bb9a04a1d2e6917f75e46c093a6c95d114970e624b9975b98bad86c12f14b/5315be05fc3b21a3f483ed0759bce825764dcf8a762623a1d94ff63f9d9ce4cc",
+    "49d849c758f4ae2d7ce7b13ad4e65694268498be0e5f50b86b9a2d38bde6c023/94409f2485ebd997a61cbd06906595e4f3ef1846ed7406f9e3fa03cfa4d5060a/8203ff88388384a6f9ed28664e8e9484119ff340cb7dc0811a15194b3a507f0e",
+    "c3d8abdce5a2d6cc74e33081a4105ffb31d36f5c224f0aa6f7d27c9f578bc23d/4b75f2532af503341fd11268d543ad0119dd2e8950a022f2851b4a5d0c8a5e0a/dd833bb70b3a57caaa6b4e4560975d9ba5a77fd0151e13d1b5f30b4f6c381d5c"
+  ],
+  "counting_note": "published invocation counts are recorded after execution; not raw external arrival timestamps"
+}

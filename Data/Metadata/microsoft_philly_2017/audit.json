@@ -1,0 +1,16 @@
+{
+  "raw_jobs": 117325,
+  "unique_job_ids": 117325,
+  "invalid_submission": 0,
+  "statuses": {
+    "Pass": 84358,
+    "Failed": 18633,
+    "Killed": 14334
+  },
+  "distinct_vcs": 15,
+  "timezone_note": "submitted_time is timezone-naive; retained as source local wall time, no UTC claim",
+  "valid_jobs": 117325,
+  "first_submission": "2017-08-07 10:03:01",
+  "last_submission": "2017-12-22 08:02:11",
+  "origin": "2017-08-07 00:00:00"
+}

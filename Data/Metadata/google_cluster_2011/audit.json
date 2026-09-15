@@ -1,0 +1,17 @@
+{
+  "files": 500,
+  "event_rows": 2012242,
+  "submit_rows": 672075,
+  "submit_time_lt_600s": 3986,
+  "submit_missing_info": 1,
+  "max_event_time_s": 2506198.229242,
+  "repeated_submit_rows_removed": 1,
+  "valid_distinct_jobs": 668087,
+  "class_counts": {
+    "scheduling_class_0": 256694,
+    "scheduling_class_1": 213855,
+    "scheduling_class_2": 193287,
+    "scheduling_class_3": 4251
+  },
+  "time_min_s": 604.046279
+}
