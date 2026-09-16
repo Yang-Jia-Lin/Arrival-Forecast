@@ -1,5 +1,6 @@
 """Plot processed arrival counts without smoothing or spike removal."""
 
+from datetime import datetime
 from pathlib import Path
 
 import matplotlib
@@ -119,7 +120,10 @@ def main() -> None:
         fontsize=10,
         color="#555555",
     )
-    figure.savefig(FIGURE_ROOT / "五项数据集_初步到达曲线.png", dpi=140)
+    stamp = datetime.now().strftime("%m%d_%H%S")
+    figure.savefig(
+        FIGURE_ROOT / f"五项数据集_初步到达曲线_{stamp}.png", dpi=140
+    )
     plt.close(figure)
 
     summary_path = PROCESSED_ROOT / "summary" / "series_summary.csv"

@@ -15,7 +15,7 @@ RAW_ROOT = DATA_ROOT / "Raw"
 INTERIM_ROOT = DATA_ROOT / "Interim"
 PROCESSED_ROOT = DATA_ROOT / "Processed"
 METADATA_ROOT = DATA_ROOT / "Metadata"
-FIGURE_ROOT = PROJECT_ROOT / "Outputs" / "Figures"
+FIGURE_ROOT = PROJECT_ROOT / "Outputs" / "Figures" / "0-DataPreprocess"
 
 
 def write_audit(path: Path, values: dict) -> None:
